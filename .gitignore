@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code local config (may contain API keys)
+.claude/
+
+# Beads issue tracker (local database)
+.beads/
+
+# Environment
+.env
+.env.local
